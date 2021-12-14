@@ -59,7 +59,7 @@ import userpackage1, other_stuff, important_package
 
 ## Pylance error
 
-Sometimes, Pylance can throw a warning: *Import "package" could not be resolved*\
+Sometimes, Pylance can raise a warning: *Import "package" could not be resolved*\
 this isn't problematic, as the program will still run without issues, but it may be visually annoying\
 you can fix this by ignoring the Pylance error:\
 
