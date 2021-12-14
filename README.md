@@ -24,7 +24,7 @@ from Folder 2 import other_stuff.py
 import My Folder.important_package.py
 ```
 
-=> Each of these will raise a *ModuleNotFoundError*
+=> Each of these will raise a *ModuleNotFoundError*\
 With EasyImports this can be fixed.
 
 ## Installing
