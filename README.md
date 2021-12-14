@@ -61,7 +61,7 @@ import userpackage1, other_stuff, important_package
 
 Sometimes, Pylance can raise a warning: *Import "package" could not be resolved*\
 this isn't problematic, as the program will still run without issues, but it may be visually annoying\
-you can fix this by ignoring the Pylance error:\
+you can fix this by ignoring the Pylance error:
 
 ```
 #import EasyImports and load sister files
