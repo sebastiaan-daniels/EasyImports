@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/EasyImports/__init__.py
+src/EasyImports/easyimports.py
+src/EasyImports.egg-info/PKG-INFO
+src/EasyImports.egg-info/SOURCES.txt
+src/EasyImports.egg-info/dependency_links.txt
+src/EasyImports.egg-info/top_level.txt
